@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @subash-tamang
-- 👀 I’m interested in python programming and game development
-- 🌱 I’m currently learning python and machine learning
+- 👀 I’m interested in Python programming and game development
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on my new conquering game. See my repositories
 - 📫 How to reach me? Email me at subashtamang0088@gnail.com
 
